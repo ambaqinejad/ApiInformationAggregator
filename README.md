@@ -32,12 +32,12 @@ The metadata for api information that includes:
 
 ##### Async / Await version
 
-1- cd BasedOnAsyncAwait
-2- npm install
-3- npm start
+1. cd BasedOnAsyncAwait
+2. npm install
+3. npm start
 
 ##### Callback version
 
-1- cd BasedOnCallback
-2- npm install
-3- npm start
+1. cd BasedOnCallback
+2. npm install
+3. npm start
